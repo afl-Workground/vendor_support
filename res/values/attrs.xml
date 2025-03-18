@@ -53,4 +53,9 @@
         <attr name="units" format="string|reference" />
         <attr name="continuousUpdates" format="boolean" />
     </declare-styleable>
+
+    <declare-styleable name="Preference">
+        <attr name="allowDividerAbove" format="boolean" />
+        <attr name="allowDividerBelow" format="boolean" />
+    </declare-styleable>
 </resources>
